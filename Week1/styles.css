@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(156, 181, 194);
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+
+
+#demoButton {
+    background-color: blue;
+    color: rgb(214, 241, 241);
+    width: 110px;
+    height: 35px;
+    cursor: pointer;
+    padding: auto;
+    border-radius: 3px;
+}
+
+#demoButton :visited{
+    background-color: rgb(249, 248, 247);
+    color: rgb(72, 73, 73);
+}
+
+
+h1 {
+    color: crimson;
+}
+
+p {
+    color: rgb(66, 4, 22);
+}
